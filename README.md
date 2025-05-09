@@ -16,7 +16,9 @@
 ![image](https://github.com/user-attachments/assets/f77509bc-77a7-457c-a615-2d33741e5b36)
 
 2. 🚀 Chạy chương trình
+   
 ![image](https://github.com/user-attachments/assets/d23c6272-d713-4342-9741-6883697af305)
+
 Chương trình sẽ:
 Lấy tin ngay khi chạy (test thử).
 Tự động chạy lại vào 06:00 sáng mỗi ngày.
