@@ -25,7 +25,7 @@ Tự động chạy lại vào 06:00 sáng mỗi ngày.
 
 ![image](https://github.com/user-attachments/assets/b1560928-9f30-414c-876b-9ac5b2838529)
 
-📝 File kết quả
+3. 📝 File kết quả
 Mỗi lần chạy sẽ tạo ra một file Excel tên như sau:
 [20250509_0600] tin_kenh14.xlsx
 ![image](https://github.com/user-attachments/assets/88019a3a-ddff-4d43-8374-291e3f3bbf52)
